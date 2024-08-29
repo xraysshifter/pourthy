@@ -1,0 +1,450 @@
+Salut ! bienvenue dans ce fichier texte, qui essaie
+de rendre compte de ma pratique dite "ordinatesque".
+  (comprenant tout ce qui est composé d'un cpu..
+    et d'une interface plus ou moins poussée)
+
+	I: Linux:
+
+		Alors ! pour commencer je vais faire un petit historique de la relation
+		entre l'ordinateur et moi.
+			
+			→ Dès petit je trainaîs sur le web déjà 2.0 à l'époque!
+			Au début c'était surtout youtube/google et utilisation de windows 7
+			genre je comprends pas grand chose à ce qu'il se passe..
+			Puis petit à petit j'ai découvert Minecraft, que j'ai péniblement
+			essayé de cracker pendant au moins un mois à base de recherches du
+			genre "crak mincraft", "mincraft cracker".. et j'en passe..
+
+			Puis s'est élargi mon savoir sur l'utilisation de mon ordi avec le 
+			temps... Au fil de quelques erreurs de proxy etc on trouve des 
+			petits tricks mais rien de bien poussé, limité par les oeillères 
+			posées par Microsoft. 
+
+			Puis découverte de photoshop, la license Adobe, qui m'a été bien
+			utile dans une approche du coup + graphique de l'utilisation
+			de mon ordinateur. C'était vraiment un truc de diiiiingue pour moi.
+			Surtout le changement que ça a opéré sur mon rapport à la création.
+			Du coup j'ai pu participer un peu à cette espèce de niche
+			si je puis dire, du GFX / web design.. UI/UX mais de façon très 
+			éloignée de la réalité de ces pratiques. 
+			Je participais sur les réseaux sociaux à la vente de mes productions
+			et au partage de mes créations de façon bien plus générale.
+			(Pour ma défense:
+				→ J'étais du genre à faire des réductions à peu près tout le
+				temps, qui passaient mes prix de 5 à 0 euros, pas mal non ?!)
+
+			Puis le temps est passé, j'ai fini par me donner d'autres raisons 
+			d'exister que le monde numérique, et bien heureuuuuusement ! :]
+
+			Pendant toute cette périodeje ne voyais plus mon ordinateur comme 
+			ce qu'il était, c'est à dire un outil extrêmement modulable qui 
+			pourrait-être un moyen d'émancipation intellectuelle, créative etc...
+
+			Je le voyais comme un outil très limité dans son usage, je le
+			voyais en réalité comme ce qu'il était, une interface d'utilisation
+			entre l'ordinateur, internet, et moi, Windows quoi. 
+
+			Puis en arrivant à l'ERG, j'ai découvert Linux, et bieeen évidemment
+			ça a fait revivre en moi tellement de sensations oubliées.. Sauf que 
+			cette fois-ci j'avais le versant plus authentique de la chose,
+			la possibilité de création et d'utilisation à l'état pur. 
+			C'est comme si j'avais à nouveau 10 ans, et que je reprenais en main
+			tout un ensemble d'outil dont j'ignorais l'utilisation jusqu'à là.
+
+			Puis, découvrir linux c'est un peu comme renverser l'état des choses
+			quant à la situation d'une société individualiste, compétitive,
+			"méritocrate" dans laquelle nous-vivons. Dès lors qu'on apprends à
+			s'intéresser à la philosophie GNU, par extension l'histoire de 
+			l'ordinateur, Unix etc.. C'est comme apprendre la notion
+			d'entraide. Soudainement, il n'est plus vraiment question d'argent
+			mais de passion, de plaisir, de volontariat..
+
+			C'est vraiment ce truc là qui m'a charmé sous Linux, modulabilité
+			et être livré à soi-même dans le monde numérique, et surtout
+			de petit à petit réussir à certains résultats.
+
+			Le plus cher, mais aussi le plus vertigineux dans cette découverte, 
+			c'est le fait de ne plus subir les oeillères de Microsoft.
+			Par là j'entends qu'on est plus contraints "d'être" en fonction de 
+			notre système d'exploitation, qui fait interface entre notre perception
+			et les éléments qui composent notre ordinateur, mais on modèle notre
+			ordinateur en confrontation avec notre vision de ce qu'est un ordinateur.
+
+			Et au final, je trouve les fonctions les plus rudimentaires d'un ordinateur:
+				→ Accéder à internet.
+				→ Créer un/des fichier(s), un/des dossier(s). (les copier/déplacer..etc)
+				Tout ça à l'aide du terminal, de commandes, de mots !!
+
+			Pour commencer à parler un peu de mes pratiques actuelles, je vais commencer
+			par te présenter un petit programme que j'ai fait en octobre 2023. Que
+			j'ai décidé d'appeler VisceralBrainCellKiller... ahem.. 
+				
+				→ Mon cours de stage est installation performance, et j'aime bien faire 
+				des petits install/perfs qui déclarent un peu notre condition en tant
+				qu'être humain à l'ère du capitalisme tardif.
+				
+				J'avais donc fait ce petit programme qui me permettait de faire défiler
+				des images très très rapidement, avec gtk++ en python, un tout petit peu
+				de bash dans mes souvenirs (pas sûr..???).
+
+				Ainsi, je pouvais m'installer, comme tu le verras sur une photo dans le
+				dossier pictures, pour donner un peu un feeling glacial d'incapacité 
+				cérébrale face à l'interface.
+						
+						→ La performance avait lieu au Marais du Wiels,
+						pendant l'expo de Francis Alys.
+
+	II: Terminal:
+
+			!!! Je ne compte pas faire le récit TERMINAL VERSUS INTERFACE 
+			!!! GRAPHIQUE !!! #HARDCORE parce que ça ne mènerait à pas 
+			!!! grand chose si ce n'est show off, ce qui est objectivement 
+			!!! inutile. Mais j'aimerai parler de quelques soucis 
+			!!! philosophiques que me posent les interfaces graphiques 
+			!!! très poussées.
+
+			En premier lieu j'ai découvert le terminal comme la source, en
+			tout cas on me l'a introduit de la sorte. Une non-abstraction.
+			C'était un moyen d'expérimenter un nouveau moyen d'accéder à
+			mes programmes. Et faut dire que c'est plus charmant d'utiliser
+			des mots que des clicks. 
+
+			Également plus logique selon moi, plus direct, dans la lignée de
+			pensée de linux. Je ne veux plus d'îcones, de sur-charge de sens
+			alors je me contentes des mots et c'est très largement suffisant.
+
+			Je parle de mots, mais je devrai plutôt parler de 
+			strings en fait, parce que par le caractère on peut 
+			signifier. Finalement ce sont aussi des pixels placés
+			sur une grille.
+
+			On peut d'ailleurs utiliser les caractères à des fins graphiques assez
+			chouettes, qui permettent un transfert d'information très fonctionnel.
+
+			Depuis l'été dernier, j'ai découvert et appris la librairie python 
+			"curses", librarie wrapped autour de ncurses, la librairie C.
+			Ncurses permet la mise en place de caractères/du curseur du terminal 
+			sur ce dernier, selon gnu.org:
+
+				"ncurses is a programming library providing an application 
+				programming interface that allows the programmer to write 
+				text-based user interfaces in a terminal-independent manner"
+
+			Depuis, j'ai fait quelques programmes, ou aidé mon colloc sur 
+			ses programmes..
+
+				→ En ce moment, c'est à dire pendant les dernières semaines
+				de juillet.. Je travailles sur un programme d'agenda, parce
+				que j'en ai un peu marre d'être très désorganisé, et j'ai
+				surtout une envie de me responsabiliser un peu +, prendre
+				en main ce qui se passe autour de moi quoi ! 
+
+				Ça me fait travailler sur des enjeux de d'aggrémentation
+				de la librairie curses.. pour écrire du texte par exemple..
+				Avec ça je découvre le module python Calendar, et c'est là
+				où je trouve le geeking extrêmement intense !! C'est
+				qu'on parle d'un module très primitif, et pourtant qui est
+				issu d'une quantité / qualité de recherches incroyable !! 
+				on en apprends énormément d'un point de vue philosophique 
+				rien qu'en lisant la documentation, de par les phrases 
+				des rédacteur.ices... la présentation de la du module..
+				sur la question du temps.
+
+				Au delà de ça, ça me laisse l'occasion de chercher mes
+				propres besoins vis à vis de mon programme, de ne pas dépendre
+				d'une grosse application dont + de la moitié des features 
+				ne me servent à rien.. En l'occurence il s'agit d'un agenda,
+				mais j'aimerai bien adapter mon travail à des projets utilitaires
+				communs... J'ai par exemple pensé à un plant manager, pour 
+				pouvoir valider si les plantes (dans ma maizon) ont été arrosées... 
+				commenter sur leur état.. etc..
+
+				Je laisse des liens github en bas de page pour tester
+				certains de mes projets si l'envie t'en prends :) !!!
+
+			Et c'est là où mon petit côté post-apo enjoyer ressort ;) :
+				→ Dans un futur (plutôt proche), dans une société du 
+				capitalisme déchu, quand la chaîne de production enfin
+				court-circuitée est devenue obsolète.. La valeur d'un
+				appareil numérique changera, et les infrastructures 
+				du monde numérique seront bien plus instables...
+				Pour le bien de l'information libre, il est possible 
+				de réduire la transmission d'information à l'utilisation
+				la plus rudimentaire d'un ordinateur afin d'assurer
+				une passation sûre... Le terminal, le texte,
+				le plain-text même.. ou si ce n'est du texte, du ncurses!
+
+					→ Facile d'utilisation, rudimentaire à souhait, 
+					personnalisable alongside son ordinateur...
+
+			Je tourne la chose en humour un peu nul à vrai dire là, mais
+			c'est un travail à faire absolument que d'imaginer le fonc-
+			tionnement de nos appareils numériques d'ici deux à trois 
+			décénnies, de voir comment il serait possible de s'adapter
+			à une vie moins intense en terme de quantité d'information
+			absorbées/secondes. 
+				
+				→ Voir même, on peut déjà questionner cette quantité
+				d'information. On parle d'apocalypse, étant déjà
+				dans *l'infocalypse*.
+
+			C'est aussi dans mes pratiques que d'imaginer un peu les
+			possibilités d'usage de nos outils numériques, les plus
+			ouverts possibles, dans le futur qui nous attends.
+			
+			C'est dans ce cadre que finalement je découvre la progra-
+			mmation, dans un but idéal d'avoir les capacités de faire
+			des petits programmes utilitaires dans des languages + 
+			low-level. C'est là où j'apprends petit à petit C, sur
+			base de mes connaissances en python... bash.. j'apprends
+			un peu tout sur le tas à vrai dire. Cette manière
+			d'envisager les choses n'est que le reflet de ma 
+			perception de la société... hélas ! 
+
+			Parce que je pense surtout qu'en vrai on peut proposer
+			une utilisation alternative de la programmation, qui ne
+			profites pas que à des big softwares, ou des grosses
+			équipes de programmation, mais pour des petits programmes
+			utiles dans leur mesures, tentant au mieux de suivre la
+			Unix Philosophy.
+			
+				→ The Unix philosophy is documented by Doug McIlroy[1] 
+				in the Bell System Technical Journal from 1978: 
+
+    				1: Make each program do one thing well. 
+					To do a new job, build afresh rather than 
+					complicate old programs by adding new "features".
+
+					2: Expect the output of every program to become the 
+					input to another, as yet unknown, program. Don't 
+					clutter output with extraneous information. Avoid 
+					stringently columnar or binary input formats. 
+					Don't insist on interactive input.
+
+    				3: Design and build software, even operating systems, 
+					to be tried early, ideally within weeks. Don't hesitate 
+					to throw away the clumsy parts and rebuild them.
+    
+					4: Use tools in preference to unskilled help to lighten 
+					a programming task, even if you have to detour to build 
+					the tools and expect to throw some of them out after 
+					you've finished using them.				
+
+			Dans cette même lignée, j'ai quelques pratiques + liées
+			aux questions de réseau, Internet de façon générale pour
+			ce côté poétique utopique des années 80-90, également côté 
+			scène hacking/warez, pratique du torrent (je seed constamment
+			le crack de The Elder Scrolls V: Skyrim Anniversary Edition,
+			c'est très important pour les mental breakdown de beaucoup
+			de gens je pense...)(même si bon ça va faire 2 mois que
+			j'attends un seed pour The Last Of Us part I...)... Bref.
+
+	III: Internet, le réseau !!!:
+
+		Internet est un espace foisonnant de valeur culturelle, d'autant
+		d'anti-valeurs culturelles à vrai dire.. Merci OpenAI :]. 
+
+		Depuis ma première année à l'ERG, je fais une collecte de sites
+		internet utiles, je re-découvre un peu la toile avec un objectif
+		plus précis, celui de l'anarchie, celui d'un ordre incalculable 
+		(à savoir non-capitaliste). Ça a commencé avec les classiques 
+		neo-cities, les heures écoulées sur Internet Archive (<3).. En
+		essayant de me détacher des réseaux sociaux plutôt mainstreams
+		(à savoir Instagram surtout). 
+
+		Ça m'a mené à la découverte de vieux forums pour des passions
+		comme par exemple Bass Expression, sur lequel je vais revenir
+		plus tard.
+
+			→ Mais autrement, beaucoup de sites très utiles, pour
+			trouver des cracks.. des bibliothèques libres...
+
+				→ https://knaben.eu
+				→ https://annas-archive.org
+				→ https://theanarchistlibrary.org/special/index
+				→ ...
+
+			→ Mais aussi des projets très intéressants :
+
+				→ https://arsindustrialis.org
+				→ ... 
+
+		Ça à également été un moyen de découverte de textes, de sources
+		de textes, parfois à contourner à l'aide de services de download..
+		(Merci LA PROPRIÉTÉ INTELLECTUELLE)
+
+		J'ai alors fait une collecte de textes depuis septembre 2023 afin
+		d'affuter mon argumentaire, et d'avoir de chouettes ressources à 
+		partager avec mon entourage. Je laisse tous ces textes dans le
+		dossier texte du git !! tu pourras piocher à souhait dans ceux
+		qui t'intéressent, les titres sont intéressants...
+
+		2: Autrement, celà m'a mené à des réflexions quant au status quo de
+		l'information.
+			
+			→ L'information devrait-elle être libre au point de s'abstraire
+			de son créateur ?? 
+
+		Je me suis souvent retrouvé à penser que c'en est beaucoup trop 
+		pour un être humain que de faire face à la quantité d'information
+		à laquelle nous faisons face au quotidien. Mon cerveau manque
+		d'exploser chaque matin en prenant le tram quoi !!, remarque
+		même si je me déplace en vélo y'a une quantité de bullshit
+		publicitaire absolument monstrueuse donc bon.. sans parler des
+		panneaux de signalisation, des marquages au sol.. Et biensûr 
+		en faisant totalement abstraction de mon téléphone sur lequel
+		je joue de la musique sur youtube le plus souvent :] (pourquoi
+		payer pour de la musique ??? c'est autre question...) 
+
+		Alors, j'aime bien réfléchir à un monde sans publicités.. sans 
+		communication visuelle trop intrusive... Voilà pourquoi les
+		limitations que proposent le terminal (pour naviguer également,
+		Lynx/w3m par exemple) me paraîssent pas si abusives.
+		On pourrait communiquer de l'information simplement (à la façon
+		des Ceefax teletexts →→→ https://metro.co.uk/2022/01/07/ceefax-
+		is-back-iconic-text-service-recreated-by-20-year-old-coder-15874417/)
+		Sans forcément charger notre programme de signification poussant
+		à l'hyper-interactivité. 
+			
+			→ Celà nous aiderait à poser de solides bases pour une 
+			distanciation entre l'interface et la réalité. Dont
+			nous allons avoir de plus en plus besoin !!!
+
+		La page web a aussi été l'occasion de d'expérimenter son format,
+		pour des petits projets de sites internets simples et marquants..
+		Mais j'ai fini par arrêter parce que j'me suis dit que ça faisait
+		trop Zuckerberg like entrepreneur...
+
+			Si tu sais lancer une application flask je te laisse des liens
+			githubs pour acceder à ces sites !! :) et au pire des cas,
+			c'est pas bien complexe ↓
+
+			   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+			   !  https://flask.palletsprojects.com/en/3.0.x/quickstart/  !
+			   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+		3: Le côté participatif !!:
+
+			Depuis le web 2.0, on est incités à une forme d'engagement
+			sur internet, le bouton subscribe en est l'exemple principal.
+
+			Je pense alors en premier lieu à l'espace commentaire youtube
+			par exemple, où si l'on passe du temps à trouver des vidéos
+			un peu obscures, on creuse à la recherche d'une certaine
+			niche musicale, on tombe sur de réelles communautés !
+
+			Je pense à la partie de youtube qui cache littéralement une 
+			trésorerie en terme de sons de Free party début années 2000.
+
+			Sous chacunes des vidéos, sur une bonne 40aine de chaînes,
+			on peut trouver des cyber-identités persistantes, qui
+			s'emparent d'un espace virtuel en posant leur marque, par
+			le biais d'un commentaire. Et c'est trop cool !! 
+			Autrement on peut aussi y trouver le mal bien évidemment..
+			Nous parlons du World Wild Web ici !
+
+			Pour aller plus loin dans cet univers qu'est la Free party,
+			On peut tomber sur le forum Bass Expression, qui est un
+			espace ouvert doté d'un système de participation assez
+			pointu. 
+
+				Jusqu'à peu il était impossible de créer un compte,
+				en raison de la croissance de la popularité du milieu, 
+				incluant donc des perquisitions de plus en plus fréquentes,
+				des violences perpetuées et très rarement assumées, envers
+				les sound systems et leurs usagers. 
+
+				Une fois que vous avez crée votre compte, vous disposez d'un
+				grade de niveau 0, que vous pouvez faire augmenter par votre
+				participation. 
+
+				Les administrateurs et modérateurs du site gardent l'oeil ouvert,
+				et font au mieux pour permettre leur libre expression. Les règles
+				misent en place ont pour seul but d'éviter un usage inutile du
+				site.
+
+				On trouvé également sur ce forum un FTP contenant une quantité
+				FARAMINEUSE de vieilles cassettes, parfois même introuvâbles sur 
+				Soulseek. Ce FTP est accessible à partir du moment où l'on dispose
+				d'un grade de rang 2 (nous offrant un pseudo un peu stylé, avec
+				une couleur et tout.. trop cool, très oldskool). 
+				Ce qui oblige un peu une participation sérieuse au forum.
+
+			Je me suis donc inscrit cet été, dans le but de faire valoir
+			mon avis, de m'exprimer au sujet de la Free Party et surtout
+			de sa musique, parce que je ne suis pas non plus un grand
+			pratiquant du sound-system. 
+			Mais aussi pour m'inclure dans ce mouvement par le biais du
+			cyberspace ! et ça c'est chouette, parce que c'est un moyen
+			d'accéder à un univers, c'est pas la place publique comme
+			Twitter par exemple. On pense plus local à ce moment là, 
+			moins world WIDE/WILD web. 
+
+			Bien évidemment, il faut savoir où traîner pour trouver
+			ce que l'on cherche, parce que des forums y'en a à la 
+			pellée, pour nuancer mon propos on pourrait par exemple
+			parler du 18-25, nid à fascistes en devenir, incels en 
+			pratique, et grands trolls (de proffession).
+
+		4: la page web comme arme:
+			
+			→ Pour clore cette partie sur la w3b, j'aimerai
+			un peu parler de deepfakes, qui me semblent
+			être une déclinaison très intéressante d'un point
+			de vue de déroute de la société post-moderne, sur
+			des questions d'infocalypse également.
+
+			finalement, je pense qu'il n'y a pas vraiment
+			d'argumentaire à avoir, juste quelques liens à déposer.
+			Faisant office de trouble-making.
+
+				→ : http://pressibus.free.fr/gen/trogneux/indexgb.html
+				→ : https://www.tachyonchamber.com/index.html
+				→ : https://libertyinternational.news/2012/09/11/911-fire-think/ (this one hurts..)
+
+			pratique bien tendencieuse, quoiqu'il en soit existante,
+			parfois efficace.
+
+	
+	Conclusions / ouverture:
+
+		Pour conclure, j'aimerai juste évoquer un peu la vision
+		que j'ai de mon ordinateur, mon outil. 
+
+		Pour moi, il s'agirait de réussir à mener à bien l'utilisation
+		de mon ordinateur comme *outil*, de sorte à ce qu'il me soit 
+		utile, et que mon utilisation ne m'en rende pas dépendant. 
+
+		Mes objectifs seraient avec le temps d'avoir de plus en plus
+		de petits outils utilitaires qui me serviraient en fonction
+		d'une situation.. (comme par exemple le "Plant Manager", qui
+		aiderai la collocation dans laquelle je suis à mieux s'organiser
+		l'arrosage des plantes...)
+
+		En gardant en tête que la fin du capitalisme c'est pour peu de 
+		temps... Avoir la possibilité de créer des programmes utiles,
+		demandant très peu de resources me semble être crucial, pour
+		quiiii sait ce qu'il se passera...
+
+		Autrement, j'aimerai vraiment m'intéresser à l'électronique,
+		c'est d'ailleurs ce qui m'a poussé à choisir votre cours.
+		Étant donné que je fais aussi de la musique sur machines
+		analogiques, j'aimerai bien être apte à bidouiller, à 
+		connaître les divers éléments composant plus concrètement
+		un ordinateur.. Afin d'avancer toujours plus vers une 
+		forme de liberté absolue vis à vis de mes machines :]
+
+		Malheureusement je pense que je n'étais pas prêt à me lancer
+		dans cette pratique.
+
+		Merci beaucoup d'avoir lu ce texte, d'avoir pris connaissance
+		de mes projets.. de la philosophie que j'essaie d'adopter,
+
+		et je te souhaites une très bonne journée !! :] (je ne sais
+		plus si je t'ai tutoyé ou vouvoyé tout le long du texte...
+		j'avoue que j'écris cette conclusion le 30/08 alors que j'avais
+		pris bien de l'avance ahem...) 
+
+
+
+AMIEL-FOURTAS Valentin
